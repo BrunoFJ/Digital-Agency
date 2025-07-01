@@ -95,20 +95,6 @@ body {
   text-align: left;
 }
 
-.contact-btn {
-  display: inline-block;
-  background: #ff2978;
-  color: white;
-  text-decoration: none;
-  padding: 20px;
-  border-radius: 5px;
-  text-transform: uppercase;
-}
-
-.contact-btn:hover {
-  background: #180f4a;
-}
-
 .img-headline {
   margin-right: 10%;
   flex: 40%;
