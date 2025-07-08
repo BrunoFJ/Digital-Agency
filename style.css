@@ -130,6 +130,7 @@ section h2 {
 
 .card {
   display: inline-block;
+
   width: 30%;
   height: 350px;
   padding: 20px;
@@ -137,6 +138,10 @@ section h2 {
   border: 1px solid #ff2978;
   border-radius: 10px;
   cursor: pointer;
+}
+
+.card-text {
+  text-align: justify;
 }
 
 .texto-oculto {
